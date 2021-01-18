@@ -1,3 +1,3 @@
 # Kokoa clone
 
-html $ css course
+html & css course
